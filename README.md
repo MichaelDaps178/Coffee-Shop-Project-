@@ -27,3 +27,6 @@ Deliverables
 Fully functional PyQt application (.py + .ui files).
 
 Interactive GUI showcasing design and coding best practices.
+
+<img width="973" height="783" alt="image" src="https://github.com/user-attachments/assets/806c5c74-f078-464d-97ea-46582b4075f8" />
+
